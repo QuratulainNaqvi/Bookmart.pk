@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    tools:context=".Request">
+
+    <TextView
+        android:id="@+id/request_Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:text="@string/request_Title"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="13sp" />
+
+    <EditText
+        android:id="@+id/request_Title1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_Title"
+        android:hint="@string/request_Title1" />
+
+    <TextView
+        android:id="@+id/request_subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_Title1"
+        android:paddingTop="10dp"
+        android:text="@string/request_subject"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="13sp" />
+
+    <EditText
+        android:id="@+id/request_subject2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_subject"
+        android:hint="@string/request_subject1" />
+
+    <TextView
+        android:id="@+id/request_writer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_subject2"
+        android:paddingTop="10dp"
+        android:text="@string/request_writer"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="13sp" />
+
+    <EditText
+        android:id="@+id/request_writer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_writer"
+        android:hint="@string/request_writer1"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/request_submit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/request_writer1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/request_submit"
+        android:textColor="@color/editTextWhite"
+        android:textSize="15sp" />
+</RelativeLayout>

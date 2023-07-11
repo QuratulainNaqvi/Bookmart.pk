@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bf2c2b</color>
+    <color name="colorPrimaryDark">#A60605</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="editTextWhite">#FFFFFF</color>
+    <color name="cardview">#4AE1DEDE</color>
+    <color name="black">#000000</color>
+    <color name="empty">#00000000</color>
+    <color name="grey">#9C9C9C</color>
+    <color name="lightgrey">#DDDDDD</color>
+    <color name="buttonLogin">#FBCD59</color>
+    <color name="red">#F82E27</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="lightPrimaryColor">#B2EBF2</color>
+    <color name="homepageTint">#DBF6F6F6</color>
+</resources>

@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">Bookmart</string>
+
+    <string name="privacy_policy1">Privacy Policy</string>
+    <string name="privacy_policy_txt1">bookmart.pk built the Bookmart app as an Ad Supported app. This SERVICE is provided by bookmart.pk at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Bookmart unless otherwise defined in this Privacy Policy.</string>
+    <string name="privacy_policy2">Information Collection and Use</string>
+    <string name="privacy_policy_txt2">
+        For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, email, image. The information that we request will be retained by us and used as described in this privacy policy.
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+    </string>
+    <string name="hyperlink1"><a href="https://policies.google.com/privacy">Google Play Services</a></string>
+    <string name="hyperlink2"><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a></string>
+    <string name="hyperlink3"><a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a></string>
+
+    <string name="privacy_policy3">Log Data</string>
+    <string name="privacy_policy_txt3">We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n</string>
+
+    <string name="privacy_policy4">Cookies</string>
+    <string name="privacy_policy_txt4">Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory. This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\n</string>
+
+    <string name="privacy_policy5">Service Providers</string>
+    <string name="privacy_policy_txt5">We may employ third-party companies and individuals due to the following reasons:</string>
+    <string name="bullet1">♦ To facilitate our Service;</string>
+    <string name="bullet2">♦ To provide the Service on our behalf;</string>
+    <string name="bullet3">♦ To perform Service-related services; or</string>
+    <string name="bullet4">♦ To assist us in analyzing how our Service is used.</string>
+    <string name="privacy_policy_txt12">We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n</string>
+
+    <string name="privacy_policy6">Security</string>
+    <string name="privacy_policy_txt6">We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n</string>
+
+    <string name="privacy_policy7">Links to Other Sites</string>
+    <string name="privacy_policy_txt7">This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n</string>
+
+    <string name="privacy_policy8">Children’s Privacy</string>
+    <string name="privacy_policy_txt8">These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.\n</string>
+
+    <string name="privacy_policy9">Changes to This Privacy Policy</string>
+    <string name="privacy_policy_txt9">We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+        This policy is effective as of 2020-08-24\n</string>
+    <string name="privacy_policy10">Contact Us</string>
+    <string name="privacy_policy_txt10">If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at bookmarteservices@gmail.com.\n</string>
+
+
+    <string name="newUser"><color>#fffff I am a new user.</color></string>
+    <string name="terms">By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive SMS notifications from us and can opt out at any time.</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <!--activity_main_drawer String starts-->
+    <string name="menu_home">Bookmart Online Library</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_library">My Library</string>
+    <string name="menu_orders">My Orders/Requests</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_request">Request Book</string>
+    <string name="menu_upgrade">Upgrade to Premium</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_logout">Logout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--activity_main_drawer String ends-->
+
+    <!--main menu String starts-->
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_tap">TapActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!--main menu String ends-->
+
+
+    <string name="action_settings">Settings</string>
+    <string name="bookName">Book Name</string>
+
+    <string name="are_you_my_mother">Are You My Mother?</string>
+    <string name="where_is_babys_belly_button">Where is Baby\'s Belly Button</string>
+    <string name="on_the_night_you_were_born">On The Night You Were Born</string>
+    <string name="hand_hand_fingers_thumb">Hand Hand Fingers Thumb</string>
+    <string name="the_very_hungry_caterpillar">The Very Hungry Caterpillar</string>
+    <string name="the_going_to_bed_book">The Going To-Bed Book</string>
+    <string name="oh_baby_go_baby">Oh Baby Go Baby</string>
+    <string name="the_tooth_book">The Tooth Book</string>
+    <string name="one_fish_two_fish_red_fish_blue_fish">One Fish, Two Fish, Red Fish, Blue Fish</string>
+
+    <string name="author">Author Name</string>
+    <string name="karen_katz">Karen Katz</string>
+    <string name="nancy_tillman">Nancy Tillman</string>
+    <string name="eric_carle">Eric Carle</string>
+    <string name="sandra_boynton">Sandra Boynton</string>
+
+
+    <!--upgrade_activity String starts-->
+    <string name="premium_heading">Bookmart Premium</string>
+    <string name="premium_subheading">Membership Benefits</string>
+    <string name="premium_heading1">Access to Premium Titles</string>
+    <string name="premium_subheading1">Get Access to all premium content during your membership period.</string>
+    <string name="premium_heading2">Download Titles</string>
+    <string name="premium_subheading2">Download titles for offline reading in absence of internet *no. of concurrent downloads is based on membership duration.</string>
+    <string name="premium_heading3">Synchronization</string>
+    <string name="premium_subheading3">Get your bookmarks synchronized automatically once internet connectivity restored.</string>
+    <string name="premium_heading4">Go Premium</string>
+    <string name="premium_subheading4">* Multiple membership options available</string>
+
+    <string name="premium1">For one month subscription 0.99$ or Rs. 100</string>
+    <string name="premium2">For three months subscription 2.99$ or Rs. 300</string>
+    <string name="premium3">For six months subscription 4.99$ or Rs. 500</string>
+    <string name="premium4">For one year subscription 9.99$ or Rs. 1000</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <!--upgrade_activity String ends-->
+
+    <!--request_activity String starts-->
+    <string name="request_Title">Title</string>
+    <string name="request_Title1">Book Title Here</string>
+    <string name="request_subject">Subject/Category</string>
+    <string name="request_subject1">Any</string>
+    <string name="request_writer">Writer</string>
+    <string name="request_writer1">Writer Name</string>
+
+    <string name="request_submit">Submit</string>
+    <!--request_activity String ends-->
+
+    <!--Order_request_activity String starts-->
+    <string name="requests_txt1">No requests have been added by you.</string>
+    <!--Order_request_activity String ends-->
+
+    <!--Order_activity String starts-->
+    <string name="orders_txt1">No orders have been placed by you.</string>
+    <!--Order_activity String ends-->
+
+
+    <!--    activity_login screen String Starts-->
+    <!--    activity_login screen String ends-->
+
+    <!--    activity_signup screen String Starts-->
+    <string name="upload_image">Upload Image</string>
+    <!--    activity_signup screen String ends-->
+
+    <string name="about_txt">Bookmart is an android app from bookmart.pk; A \'book-on-demand\' portal that attempts to provide easy access to hundreds of thousands of books covering a wide range of subjects. We are on a mission to spread the knowledge by making it accessible to all. Please join our mission and refer this app to your friends and family members.</string>
+    <string name="about_cmt">Contact Us: </string>
+    <string name="about_email">Email: </string>
+    <string name="about_emailtxt"> bookmarteservices@gmail.com</string>
+    <string name="about_whatsapp">Whatsapp: </string>
+    <string name="about_whatsapptxt"> +923155463136</string>
+    <string name="about_fb">Facebook: </string>
+    <string name="about_fbtxt"> https://www.facebook.com/bookmart.pk</string>
+    <string name="about_insta">Instagram: </string>
+    <string name="about_instatxt"> https://www.instagram.com/bookmart.pk/</string>
+    <string name="about_web">Website: </string>
+    <string name="about_webtxt"> www.bookmart.pk/</string>
+
+
+    <string name="termsConditions">Terms &amp; Conditions</string>
+    <string name="termsPara1">By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to bookmart.pk.</string>
+    <string name="termsPara2">bookmart.pk is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.</string>
+    <string name="termsPara3">The Bookmart app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Bookmart app won’t work properly or at all.
+
+The app does use third party services that declare their own Terms and Conditions.
+
+Link to Terms and Conditions of third party service providers used by the app</string>
+
+
+    <string name="termsPara4">You should be aware that there are certain things that bookmart.pk will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but bookmart.pk cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.</string>
+    <string name="termsPara5">If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.</string>
+    <string name="termsPara6">Along the same lines, bookmart.pk cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, bookmart.pk cannot accept responsibility.</string>
+    <string name="termsPara7">With respect to bookmart.pk’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. bookmart.pk accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.</string>
+    <string name="termsPara8">At some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. bookmart.pk does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.</string>
+    <string name="termsPara9">Changes to This Terms and Conditions</string>
+    <string name="termsPara10">We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 2020-08-24</string>
+    <string name="termsPara11">Contact Us</string>
+    <string name="termsPara12">If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at bookmarteservices@gmail.com.</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>

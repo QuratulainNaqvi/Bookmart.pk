@@ -1,0 +1,4 @@
+include ':lib2'
+include ':lib'
+rootProject.name='Bookmart.pk'
+include ':app'
